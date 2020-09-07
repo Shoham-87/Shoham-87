@@ -11,7 +11,6 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Shoham Dey Sarkar" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://github.com/Shoham-87)
 [<img align="left" alt="LinkedIn | Shoham Dey Sarkar" width="30px" src="https://github.com/simple-icons/simple-icons/raw/develop/icons/linkedin.svg" />](https://www.linkedin.com/in/shoham-dey-222a221aa/)
 [<img align="left" alt="Facebook | Shoham Dey Sarkar" width="30px" src="https://github.com/simple-icons/simple-icons/raw/develop/icons/facebook.svg" />](https://www.facebook.com/profile.php?id=100010307765072)
 [<img align="left" alt="YouTube | Shoham Dey Sarkar" width="30px" src="https://github.com/simple-icons/simple-icons/raw/develop/icons/youtube.svg" />](https://www.youtube.com/channel/UC04T3mzCezfe3xZK_h7PRkA?view_as=subscriber)
