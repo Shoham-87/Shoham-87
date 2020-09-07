@@ -5,7 +5,7 @@
 
 ---
 
-## I'm a Full Stack Web Developer , Data Analyst and Youtuber
+## I'm a Full Stack Web Developer , Data Analyst , Small Game Developer(using Python) and Youtuber
 
 - 🥅 2020 Goals: Want Contribute to Open Source projects
 
