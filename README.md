@@ -1,7 +1,7 @@
 ### Hi ,I am Shoham Dey Sarkar 🙋🏽‍♂️
 
 [![Website](https://img.shields.io/website?label=ShohamDeySarkar&style=for-the-badge&url=https://shoham-87.github.io/Shohamdeysarkar/)](https://shoham-87.github.io/Shohamdeysarkar/)
-![](https://visitor-badge.glitch.me/badge?page_id=Shoham)
+![](https://visitor-badge.glitch.me/badge?page_id=Shoham-87)
 
 ---
 
